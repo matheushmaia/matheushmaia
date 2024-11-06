@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **videos, cousers, books**
 
-- 💬 About me **I have a degree in financial management, with analytical skills, and I am working on projects to soon become a specialist in data analysis.**
+- 💬 About me: **I have a degree in financial management, with analytical skills, and I am working on projects to soon become a specialist in data analysis.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
